@@ -4,7 +4,7 @@ Sou Mun, ou melhor, esse é meu CodeName na internet, sou um progamador que gost
 mas gosto do que faço, mesmo que seja inútil.
 
 # Vozes do Horizonte - 13/01/25 01:08 AM
-- Atualmente venho tentando desenvolver um jogo 3D em primeira pessoa, meu objetivo inicial era fazer um projeto pequeno apenas para aprendizado pessoal, mas achei e, ainda acho, que seria interessante
+Atualmente venho tentando desenvolver um jogo 3D em primeira pessoa, meu objetivo inicial era fazer um projeto pequeno apenas para aprendizado pessoal, mas achei e, ainda acho, que seria interessante
 se eu pudesse levar isso mais a sério, tipo, fazer um jogo e publicar, acredito que nunca levei um jogo tão a serio, mas confesso que estou me divertindo muito tendo ideias e
 fazendo roteiros, mesmo que eu ainda não tenha um protótipo funcional do jogo com todas as funcionalidades além de um player que pode andar por um mapa vazio de uma ilha vejo uma certa
 evolução no que faço, apesar de que tenho focado muito em gráficos ao invés de funcionalidade, sei que posso deixar isso pra depois mas.. sei lá, por algum motivo sempre acabo voltando pra mesma parte onde
