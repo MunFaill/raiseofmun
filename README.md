@@ -10,3 +10,11 @@ fazendo roteiros, mesmo que eu ainda não tenha um protótipo funcional do jogo 
 evolução no que faço, apesar de que tenho focado muito em gráficos ao invés de funcionalidade, sei que posso deixar isso pra depois mas.. sei lá, por algum motivo sempre acabo voltando pra mesma parte onde
 eu crio um objeto 3D da ilha, ponho textura, coloco decoração como àrvores, pedras e grama, depois fico sem saber o que fazer e deixo o projeto de lado por um tempo, tenho que para com isso e ralmente
 fazer o jogo em sí, espero que dê certo, enfim, mal vi o tempo passar enquanto escrevia esse post, a ideia de um microblog extremamente simples realmente é divertida, até a próxima, talvez. :D
+
+# 14/01/25 01:03 AM
+Hoje (no caso ontem) não foi lá um dia muito produtivo ou algo do tipo, tentei mexer no meu jogo, o vozes do horizonte mas acabei com um problema de performance com as folhas de grama, tenho que optimizar o modelo 3D dela.
+Também comecei a fazer um aplicativo simples de anotações, é mais para aprendizado e uso pessoal, mas notei um pouco de dificuldade em fazer aplicativos fora do ramo dos games dentro de uma game engine, será por que? haha,
+Penso seriamente em tentar voltar para o Flutter, mas a curva de aprendizado pode ser bem grande e complicada, amo flutter mas ele é meio complexo para meu cérebro de chimpanzé... To muito interessado por shaders e progamação visual,
+quero fazer uma engine de física, mesmo que seja pelo terminal etc... Deve ser divertido entender como isso funciona, bom, também notei que, por coincidência eu também estou publicando essa atualização uma da manhã, tenho que dar um jeito
+no meu sono, sério, ontem fui dormir 4 da manhã haha.. De qualquer modo, vou tentar equilibrar o desemvolvimento do meu jogo como outros projetos que faço por diversão, acredito que devo terminar meu app de notas e usar ele para me ajudar
+a organizar meu jogo, um trabalho para fazer outro trabalho, sério, tenho problemas de cabeça... Até uma próxima, tenho animes me esperando agora.
