@@ -19,7 +19,6 @@ Penso seriamente em tentar voltar para o Flutter, mas a curva de aprendizado pod
 quero fazer uma engine de física, mesmo que seja pelo terminal etc... Deve ser divertido entender como isso funciona, bom, também notei que, por coincidência eu também estou publicando essa atualização uma da manhã, tenho que dar um jeito
 no meu sono, sério, ontem fui dormir 4 da manhã haha.. De qualquer modo, vou tentar equilibrar o desemvolvimento do meu jogo como outros projetos que faço por diversão, acredito que devo terminar meu app de notas e usar ele para me ajudar
 a organizar meu jogo, um trabalho para fazer outro trabalho, sério, tenho problemas de cabeça... Até uma próxima, tenho animes me esperando agora.
-  PS: agora são 1:29 AM, FINALMENTE mudei a base do blog para HTML e CSS (Bem vindo aos anos 90), então... Tema Escuro FINALMENTE!!!!
 </p>
 
 <p> PS: agora são 1:29 AM, FINALMENTE mudei a base do blog para HTML e CSS (Bem vindo aos anos 90), então... Tema Escuro FINALMENTE!!!!</p>
