@@ -1,4 +1,4 @@
-<body style="background-color:black;">
+<body style="background-color:black; color:white;">
 
   <p>Aoba!!
   Sou Mun, ou melhor, esse é meu CodeName na internet, sou um progamador que gosta de inventar coisas que não vão me beneficiar,
