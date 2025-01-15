@@ -22,4 +22,13 @@ a organizar meu jogo, um trabalho para fazer outro trabalho, sério, tenho probl
 </p>
 
 <p> PS: agora são 1:29 AM, FINALMENTE mudei a base do blog para HTML e CSS (Bem vindo aos anos 90), então... Tema Escuro FINALMENTE!!!!</p>
+
+<h1>14/01/25 23:28 PM</h1>
+<p>Hoje fiz bastante progresso, optimizei o modelo 3D das gramas, fiz um mapa e terminei meu aplicativo de notas, agora posso focar 100% do meu tempo no jogo, bom
+acredito que as coisas vão começar a andar, já que com o mapa pronto agora posso ir para as funcionalidades reais do jogo, mas tenho que me lembrar de adicionar texturas melhores e definitivas, também quero tentar fazer um sistema de àgua, já que boa parte do jogo se passa nela, quero fazer sistemas de barcos etc... Bom, agora é ir
+desenvolvendo!</p>
+
+<img src="print.jpeg" style="border-radius: 30%;" alt="App de notas">
+<img src="print2.jpeg" style="border-radius: 30%;" alt="Vozes do horizonte">
+</body>
 </body>
