@@ -31,4 +31,3 @@ desenvolvendo!</p>
 <img src="print.jpeg" style="border-radius: 20px;" alt="App de notas">
 <img src="print2.jpeg" style="border-radius: 20px;" alt="Vozes do horizonte">
 </body>
-</body>
