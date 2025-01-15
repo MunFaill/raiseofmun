@@ -28,7 +28,7 @@ a organizar meu jogo, um trabalho para fazer outro trabalho, sério, tenho probl
 acredito que as coisas vão começar a andar, já que com o mapa pronto agora posso ir para as funcionalidades reais do jogo, mas tenho que me lembrar de adicionar texturas melhores e definitivas, também quero tentar fazer um sistema de àgua, já que boa parte do jogo se passa nela, quero fazer sistemas de barcos etc... Bom, agora é ir
 desenvolvendo!</p>
 
-<img src="print.jpeg" style="border-radius: 30%;" alt="App de notas">
-<img src="print2.jpeg" style="border-radius: 30%;" alt="Vozes do horizonte">
+<img src="print.jpeg" style="border-radius: 20px;" alt="App de notas">
+<img src="print2.jpeg" style="border-radius: 20px;" alt="Vozes do horizonte">
 </body>
 </body>
