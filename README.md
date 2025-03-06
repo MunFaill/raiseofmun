@@ -30,4 +30,13 @@ desenvolvendo!</p>
 
 <img src="print.jpeg" style="border-radius: 20px;" alt="App de notas">
 <img src="print2.jpeg" style="border-radius: 20px;" alt="Vozes do horizonte">
+
+<h1>06/02/25 16:14</h1>
+
+<p>Oi.. Quanto tempo eu acho, bom muitas, muitas coisas aconteceram, e.. como posso dizer? Desanimei talvez, o projeto do vozes do horizonte atualmente ta arquivado, e pra ser sincero eu não
+sinto a mínima vontade de voltar com ele, ou melhor, parei todos os projetos que citei antes, comecei novos, to fazendo um jogo sobre dungeons com geração procedural infinita chamdo Dungeons Dungeons e mais Dungeons.
+Bom, a verdade é que comecei a dar pequenas aulas de informática, e digo uma coisa, elas não me vem fazendo bem, recentemente fui laudado com autismo, depressão e ansiedade, pensei que não
+iria alterar muita coisa, mas querendo ou não, isso me afeta muito, hoje, ou melhor, uns minutos atras, uma garota acabou entrando na minha sala, questionei sobre ela não ser da minha classe, 
+ela acabou me respondendo de forma agressiva, mantive a calma perto dela, mas confesso que por dentro estou.. morrendo de ansiedade haha, é desesperador e angustiante ao mesmo tempo, impressionante
+bom, só queria dar uma desabadfada, não sei se vou continuar com o blogue, talvez, mas não tenho certeza, acho que devo re-fazer um do zero, ou re-começar esse, bom obrigado por ter lido essa atualização.</p>
 </body>
